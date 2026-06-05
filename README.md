@@ -1,6 +1,6 @@
-📦 Product Distribution Analysis Dashboard
-
-1. Project Title / Headline
+# 📦 Product Distribution Analysis Dashboard
+## Recommended Structure and Order
+### 1. Project Title / Headline
 
 📊 Product Distribution Analysis Dashboard
 
@@ -8,13 +8,13 @@ A dynamic and interactive Power BI dashboard built to analyze product sales, ord
 
 ---
 
-2. Short Description / Purpose
+### 2. Short Description / Purpose
 
 The Product Distribution Analysis Dashboard is a visually engaging Power BI report designed to help users monitor sales performance, order volumes, and profit distribution across different regions. The dashboard focuses on highlighting state-wise and city-wise business performance, making it useful for sales managers, business analysts, and decision-makers seeking actionable insights.
 
 ---
 
-3. Tech Stack
+### 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:<br>
 
@@ -26,7 +26,7 @@ The dashboard was built using the following tools and technologies:<br>
 
 ---
 
-4. Data Source
+### 4. Data Source
 
 Source: Product Sales & Distribution Dataset.
 
@@ -34,7 +34,7 @@ The dataset contains information related to product sales, orders, profits, citi
 
 ---
 
-5. Features / Highlights
+### 5. Features / Highlights
 
 • Business Problem
 
