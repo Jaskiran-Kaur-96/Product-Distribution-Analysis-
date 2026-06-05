@@ -110,8 +110,6 @@ Strategic Planning: Supports informed decision-making related to sales growth, i
 
 ---
 
-6. Screenshots / Demos
-
-Dashboard Preview
-
-"Dashboard Preview" (https://github.com/Jaskiran-Kaur-96/Product-Distribution-Analysis-/blob/main/Snapshot%20of%20Product%20Analysis%20Dashboard.png)
+### 6.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview]()
